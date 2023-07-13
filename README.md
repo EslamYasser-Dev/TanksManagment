@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Industria Monitorng app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## introduction
+
+this web app is a small part from a huge Internet of things project aims to make tanks monitoring at factories and whole industrial areas more reliable and safe, by using most recent Internet of things tecnologies (IoT)
+via real sensors and modules and using both Edge Computing to make some nessiasry process on chip then
+move it via carrier network as Blutooth Low energy(BLE), WiFi(2.4GHZ), send data via robust Gateways then to a WAN
+to servers to do some cloud computing and data-analysis.
 
 ## Available Scripts
 

@@ -23,7 +23,7 @@ module.exports = {
       colors: {
         tanks_blue: "#131921",
         tanks_light: "#232F3E",
-        Tanks_yellow: "#FEBD69",
+        tanks_yellow: "#FEBD69",
         whiteText: "#FFFFFF",
         lightText: "#CCC",
         quantity_box: "#F0F2F2",
