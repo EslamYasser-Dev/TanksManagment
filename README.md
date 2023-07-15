@@ -1,4 +1,4 @@
-# Getting Started with Industria Monitorng app.
+# Industria Monitorng app.
 
 ## introduction
 
@@ -7,9 +7,13 @@ via real sensors and modules and using both Edge Computing to make some nessiasr
 move it via carrier network as Blutooth Low energy(BLE), WiFi(2.4GHZ), send data via robust Gateways then to a WAN
 to servers to do some cloud computing and data-analysis.
 
+## Technologies that are used
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+## these Due to we are still developing phase
 
 ### `npm start`
 
